@@ -1,0 +1,24 @@
+#top-notification {
+  display: none;
+  background-color: #f8d7da;
+  margin-top: 40px;
+  color: #721c24;
+  text-align: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 9999;
+}
+
+#top-notification button {
+  background: none;
+  border: none;
+  color: #721c24;
+  font-size: 16px;
+  float: right;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+ 
